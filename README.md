@@ -1281,7 +1281,7 @@ Use the **Delegation of Control Wizard** to assign administrative permissions to
 
 This allows delegated administrators to perform specific management tasks without becoming members of the **Domain Admins** group.
 
-![Delegated Administration](screenshots/22-select-security-group.png.png)
+![Delegated Administration](screenshots/22-select-security-group.png)
 
 ---
 
