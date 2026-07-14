@@ -386,7 +386,7 @@ Specify the router (default gateway).
 |---------|-------|
 | Gateway | 192.168.100.1 |
 
-![Default Gateway](screenshots/12-default-gateway.png)
+![Default Gateway](screenshots/12-default-gatewa.png)
 
 ---
 
